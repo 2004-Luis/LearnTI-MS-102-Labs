@@ -21,4 +21,4 @@ Criar um segundo utilizador para suporte.
 
 ## Resultado
 O utilizador support-LAB-A04 foi criado com sucesso.
-![exercicio4]
+![exercicio4](../Imagems/exercicio4.png)
