@@ -4,20 +4,21 @@
 Atualizar propriedades organizacionais do utilizador.
 
 passo a passo:
-1️⃣ Abrir utilizador
+
+Abrir utilizador
 
 trainee-LAB-A04
 
-2️⃣ Ir em
+ Ir em
 
 Manage Contact Information
 
-3️⃣ Editar
+ Editar
 
 Department: IT
 Job Title: Administrator
 
-4️⃣ Guardar.
+ Guardar.
 ## Alterações realizadas
 Department: IT
 Job Title: Administrator
@@ -25,4 +26,4 @@ Job Title: Administrator
 ## Resultado
 O utilizador foi atualizado com as informações organizacionais.
 
-![exercicio3.png]
+![exercicio3.png](../Imagems/exercicio3.png)
