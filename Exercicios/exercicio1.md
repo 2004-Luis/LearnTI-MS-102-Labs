@@ -13,4 +13,5 @@ Criar um novo utilizador no Microsoft 365 Admin Center.
 O utilizador foi criado com sucesso e encontra-se ativo no tenant.
 
 ## Evidência
+![execicio1](../Imagems/exercicio1.png)
 
