@@ -20,6 +20,6 @@ Group type: Security
 Name: GRP-IT-LAB-A04
 
 ## Resultado
-![exercicio6]()
+![exercicio6](../Imagems/exercicio6.png)
 
 O grupo foi criado com sucesso.
