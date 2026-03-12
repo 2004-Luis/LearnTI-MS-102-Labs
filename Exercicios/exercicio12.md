@@ -19,4 +19,4 @@ Resultado:
 A equipa agora possui canais organizados
 para diferentes tipos de comunicação e colaboração.
 
-![exercicio]()
+![exercicio](../Imagems/exercicio12.3.png)
