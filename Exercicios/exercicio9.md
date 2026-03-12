@@ -1,4 +1,4 @@
-## Item 9 – Criação de Grupo Microsoft 365
+##  Criação de Grupo Microsoft 365
 
 Foi criado um grupo Microsoft 365 chamado M365-PROJECT-LAB-A04
 no Microsoft 365 Admin Center.
@@ -21,5 +21,5 @@ Passos realizados:
 Resultado:
 O grupo foi criado com sucesso e está pronto
 para suportar colaboração entre membros da equipa.
-![exercicio9]()
+![exercicio9](../Imagems/exercicio9.png)
 
