@@ -15,4 +15,4 @@ Resultado:
 Os membros agora recebem emails enviados
 para a lista de distribuição.
 
-![](../)
+![](../Imagems/19.png)
