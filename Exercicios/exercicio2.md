@@ -11,4 +11,4 @@ Atribuir licença Microsoft 365 Business Premium ao utilizador trainee-LAB-A04.
 
 ## Resultado
 O utilizador possui agora acesso aos serviços do Microsoft 365.
-![exercicio2](../Imagems/exercicio2.png)
+![exercicio2](../)
