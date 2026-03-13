@@ -14,4 +14,4 @@ Passos realizados:
 Resultado:
 Foi criado um canal privado que permite comunicação restrita
 entre membros específicos da equipa.
-![exercicio14](../)
+![exercicio14](../Imagems/exercicio14.png)
