@@ -18,3 +18,4 @@ e agora podem participar nas conversas, colaborar em canais
 e aceder aos recursos da equipa.
 
 
+![exercicio13](../Imagems/exercicio13.png)
