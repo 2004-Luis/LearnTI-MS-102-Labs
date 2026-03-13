@@ -15,4 +15,4 @@ Passos realizados:
 Resultado:
 O utilizador agora pode abrir e gerir a caixa de correio partilhada.
 
-![](../)
+![](../Imagems/exercicio17.png)
