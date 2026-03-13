@@ -17,4 +17,4 @@ Os utilizadores foram adicionados com sucesso ao Team
 e agora podem participar nas conversas, colaborar em canais
 e aceder aos recursos da equipa.
 
-![]()
+
