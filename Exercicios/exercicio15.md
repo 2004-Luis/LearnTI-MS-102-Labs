@@ -14,3 +14,5 @@ Passos realizados:
 Resultado:
 O utilizador agora possui permissões administrativas
 para gerir membros e configurações da equipa.
+
+![](../Imagems/exercicio15.png)
