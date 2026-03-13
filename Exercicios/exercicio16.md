@@ -17,4 +17,4 @@ Resultado:
 A Shared Mailbox foi criada com sucesso e pode agora ser utilizada
 por vários utilizadores para envio e receção de emails de suporte.
 
-![](../)
+![](../Imagems/Exercicio16.png)
