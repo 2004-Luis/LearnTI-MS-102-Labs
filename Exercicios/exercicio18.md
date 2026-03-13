@@ -13,3 +13,4 @@ Passos realizados:
 Resultado:
 A lista permite enviar emails para vários utilizadores
 através de um único endereço.
+![](../Imagems/18.png)
