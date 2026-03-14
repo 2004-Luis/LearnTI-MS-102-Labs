@@ -25,4 +25,4 @@ A lista de distribuição DL-SALES-LAB-A04 foi criada com sucesso e
 permite enviar emails para todos os membros do grupo através de
 um único endereço de email.
 
-![](../)
+![](../Imagems/exercicio37.png)
