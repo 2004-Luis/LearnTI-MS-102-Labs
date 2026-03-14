@@ -15,4 +15,4 @@ Resultado:
 
 A biblioteca Docs-LAB-A04 encontra-se disponível
 para armazenamento de documentos.
-![](../)
+![](../Imagems/exercicio23.png)
