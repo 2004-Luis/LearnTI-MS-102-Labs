@@ -6,3 +6,5 @@ para colaboração interna.
 Nome do site:
 
 SITE-TEAM-LAB-A04
+
+![](../Imagems/exercicio26,27.png)
