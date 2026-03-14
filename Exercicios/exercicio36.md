@@ -10,4 +10,4 @@ sales-LAB-A04
 Esta mailbox permite que vários utilizadores
 acessam e respondam emails de vendas.
 
-![](../)
+![](../Exercicios/exercicio36.png)
