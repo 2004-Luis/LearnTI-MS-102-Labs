@@ -11,4 +11,4 @@ Pastas criadas:
 
 Esta estrutura permite melhor gestão
 dos conteúdos do projeto.
-![exercicio24](../)
+![exercicio24](../Imagems/exercicio24.png)
