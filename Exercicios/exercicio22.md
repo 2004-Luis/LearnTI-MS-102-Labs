@@ -19,4 +19,4 @@ O site foi criado com sucesso e encontra-se
 disponível para colaboração e armazenamento
 de documentos de projetos.
 
-![](../)
+![](../Imagems/exercicio22.png)
