@@ -17,3 +17,4 @@ Resultado:
 
 O grupo foi criado com sucesso e encontra-se
 disponível para colaboração da equipa de vendas.
+![](../Imagems/exercicio31.png)
