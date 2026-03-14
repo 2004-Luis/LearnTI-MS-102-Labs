@@ -20,4 +20,4 @@ Resultado:
 
 Todos os emails enviados pela organização passam a incluir
 automaticamente o aviso de confidencialidade definido.
-![](../)
+![](../Imagems/exercicio21.png)
