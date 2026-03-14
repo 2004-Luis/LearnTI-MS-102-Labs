@@ -12,3 +12,5 @@ Canais criados:
 Estes canais permitem separar discussões
 relacionadas com oportunidades de vendas
 e previsões comerciais.
+![](../Imagems/exercicio34.png)
+![](../)
