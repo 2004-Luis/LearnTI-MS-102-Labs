@@ -14,4 +14,4 @@ Resultado:
 O grupo de IT pode agora colaborar
 na gestão dos documentos.
 
-![](../)
+![](../Imagems/exercicio24.png)
